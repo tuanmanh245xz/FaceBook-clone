@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "432011185599",
+    "firebase_url": "https://fakeinstagram-65d2a.firebaseio.com",
+    "project_id": "fakeinstagram-65d2a",
+    "storage_bucket": "fakeinstagram-65d2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432011185599:android:fc8f2d4824eeba01d2e50a",
+        "android_client_info": {
+          "package_name": "com.tuannam.fake_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432011185599-1bvcccr948nc2bkuvusplmjqrqjl5m19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLXOZr3HCBD5PsQB6lzWsqmU80Ciyz8sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432011185599-1bvcccr948nc2bkuvusplmjqrqjl5m19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
